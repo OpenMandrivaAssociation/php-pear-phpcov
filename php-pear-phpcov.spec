@@ -5,7 +5,7 @@ Summary:	TextUI frontend for PHP_CodeCoverage
 
 Name:		php-pear-%{upstream_name}
 Version:	1.0.0
-Release:	4
+Release:	5
 License:	BSD
 Group:		Development/PHP
 URL:		http://www.phpunit.de/
